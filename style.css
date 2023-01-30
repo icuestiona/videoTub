@@ -375,6 +375,9 @@ button {
   text-align: center;
   color: #000;
 }
+.footer a {
+  color: #0000ff;
+}
 
 @media (max-width: 900px) {
   .play_video {
